@@ -52,7 +52,7 @@ It's located in `/home/rick` repository.
 
 We can now use `less` command to get the **second flag**.
 
-After while I tried `sudo -l` command to see if i can run anythink with privilages. It turned out that I have sudo on every command.
+After while I tried `sudo -l` command to see if i can run anythink with privilages. It turned out that I have sudo on every command.<br>
 ![sudol](img/pickle-sudol.png)
 
 The ssh protocol of the machine supports only key login.
